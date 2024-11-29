@@ -1,0 +1,7 @@
+C:\Users\TECHNIFI\source\repos\GalaxyShooterGame\GalaxyShooterGame\bin\Debug\GalaxyShooterGame.exe.config
+C:\Users\TECHNIFI\source\repos\GalaxyShooterGame\GalaxyShooterGame\bin\Debug\GalaxyShooterGame.exe
+C:\Users\TECHNIFI\source\repos\GalaxyShooterGame\GalaxyShooterGame\bin\Debug\GalaxyShooterGame.pdb
+C:\Users\TECHNIFI\source\repos\GalaxyShooterGame\GalaxyShooterGame\obj\Debug\GalaxyShooterGame.csproj.AssemblyReference.cache
+C:\Users\TECHNIFI\source\repos\GalaxyShooterGame\GalaxyShooterGame\obj\Debug\GalaxyShooterGame.csproj.CoreCompileInputs.cache
+C:\Users\TECHNIFI\source\repos\GalaxyShooterGame\GalaxyShooterGame\obj\Debug\GalaxyShooterGame.exe
+C:\Users\TECHNIFI\source\repos\GalaxyShooterGame\GalaxyShooterGame\obj\Debug\GalaxyShooterGame.pdb
